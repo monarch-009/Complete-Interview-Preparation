@@ -3,7 +3,7 @@ Geeks for Geeks Complete Interview Preparation Course
 Welcome to my repository for the Geeks for Geeks Complete Interview Preparation Course! This repository is a compilation of everything I've learned from the course, organized to help others who are also preparing for technical interviews.
 
 Course Overview
-The course covers three main areas crucial for technical interviews:
+The course covers three main areas crucial for technical interviews: 
 
 Data Structures and Algorithms (DSA)
 Computer Subjects
